@@ -1,0 +1,19 @@
+body {
+  background: #f3f7fc;
+  color: #18304e;
+}
+.hero-panel {
+  color: #fff;
+  background: linear-gradient(130deg, #132f59, #287ac2);
+  box-shadow: 0 16px 36px rgba(23, 66, 117, .18);
+}
+.hero-panel h1 {
+  font-weight: 800;
+  letter-spacing: -.04em;
+}
+.card {
+  border: 1px solid #dfe8f2;
+  border-radius: 1rem;
+  box-shadow: 0 8px 24px rgba(20, 45, 80, .06);
+}
+#result { font-weight: 700; }
